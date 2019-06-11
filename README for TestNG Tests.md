@@ -3,7 +3,7 @@ Friendsurance-Expense-Tracker-App-Automation-Tests-by-Abhijit-Malankar-11-June-2
 
 Test Set up Requirements for Testing this folder is  
 
-1) Eclipse IDE 
+1) Eclipse IDE -  with Testng & Selenium Libraries & dependencies loaded . 
 2) Firefox Browser 
 
 This Test NG Folder contains 
