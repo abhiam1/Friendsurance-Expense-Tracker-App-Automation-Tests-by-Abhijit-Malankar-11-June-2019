@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9708" started-at="2019-06-10T16:35:37Z" finished-at="2019-06-10T16:35:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9708" started-at="2019-06-10T16:35:37Z" finished-at="2019-06-10T16:35:47Z">
+      <class name="FA_Test.Expense_Trac_TestNG_DataProvider_Ex">
+        <test-method status="PASS" signature="openBrowserAdd()[pri:0, instance:FA_Test.Expense_Trac_TestNG_DataProvider_Ex@a12c19]" name="openBrowserAdd" is-config="true" duration-ms="6800" started-at="2019-06-10T22:05:37Z" finished-at="2019-06-10T22:05:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAdd -->
+        <test-method status="PASS" signature="Adduser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:FA_Test.Expense_Trac_TestNG_DataProvider_Ex@a12c19]" name="Adduser" duration-ms="2031" started-at="2019-06-10T22:05:44Z" data-provider="loginAddUser" finished-at="2019-06-10T22:05:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testuser123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adduser -->
+        <test-method status="PASS" signature="closeBrowserAdd()[pri:0, instance:FA_Test.Expense_Trac_TestNG_DataProvider_Ex@a12c19]" name="closeBrowserAdd" is-config="true" duration-ms="863" started-at="2019-06-10T22:05:46Z" finished-at="2019-06-10T22:05:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAdd -->
+      </class> <!-- FA_Test.Expense_Trac_TestNG_DataProvider_Ex -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

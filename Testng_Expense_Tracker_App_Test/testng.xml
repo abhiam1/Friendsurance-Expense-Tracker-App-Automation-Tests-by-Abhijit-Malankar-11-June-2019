@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FA_Expense_Tracker_App ">
+  <test name="Expense_Tracker_App_Auto">
+    <classes>
+      <class name="FA_Test.Expense_Tracker_App_TestNG_Test"/>
+    </classes>
+    
+    <groups>
+       <run>
+       <include name="New_User_Addition" />
+       <include name="New_Cat_Addition" />
+       <include name="New_Expense_Addition_Bug_Catch" />
+       <include name="New_Expense_Addition_Bug_Workaround" />
+       <include name="Show_Statistics" />
+       <include name="Edit_Account" />
+       
+       </run>
+       </groups>
+    
+    
+  </test> <!-- Expense_Tracker_App_Auto -->
+</suite> <!-- FA_Expense_Tracker_App  -->
