@@ -8,7 +8,9 @@ Test Set up Requirements for Testing this folder is
 
 This Test NG Folder contains 
 
-2 Tests Scripts which run on a Firefox Browser 
+2 Tests Scripts which run on a Firefox Browser located in path -
+
+<Friendsurance-Expense-Tracker-App-Automation-Tests-by-Abhijit-Malankar-11-June-2019/Testng_Expense_Tracker_App_Test/src/FA_Test/>
 
 1) Expense_Tracker_App_TestNG_Test.java - For End to End Tests of Expense Tracker App  - which can be run in 2 ways 
 
