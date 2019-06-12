@@ -39,7 +39,7 @@ This Test NG Folder contains
     This can be run as 
      a) As TestNG Test file - in Eclipse right click - from the Class location - and selecting to "run as a TestNG Test" 
      
-     Important Note : Prerequisite for Test -  
+     Important Note : Prerequisite for Test-  
      Before running this test - Please open the class file of "Expense_Trac_TestNG_DataProvider_Ex.java & edit the "username" 
      field on the line no - 81- <new Object[] {"TC01" ,"username", "12345" , "12345" },> , so that an existing user is not replicated again . 
      This test can be run only once with one unique user at the moment , this user has to be changed for each test run to get proper results.
